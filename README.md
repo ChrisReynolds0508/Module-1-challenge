@@ -12,6 +12,9 @@ Each article of this webpage contains information about the emportance of search
 
 Each aside element explains the benefits one would receive by using this service.
 
+## URL
+https://chrisreynolds0508.github.io/Module-1-challenge/
+
 ## Authors
 Chris Reynolds
 
