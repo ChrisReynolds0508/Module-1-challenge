@@ -25,6 +25,7 @@ body {
 }
 
 nav {
+    /*replaced the .header div with nav to provide semantic meaning*/
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,10 +34,12 @@ nav {
 }
 
 nav ul {
+    /*replaced .header div ul with nav ul to provide semantic meaning*/
     list-style-type: none;
 }
 
  nav ul li {
+    /*replaced .header div ul li with nav ul li to provide semantic meaning */
     display: inline-block;
     margin-left: 25px;
 }
@@ -87,18 +90,21 @@ p {
 }
 
 .benefit {
+    /*replaced the 3 seperate classes for the 3 aside articles with one class to consolidate my code as the styling was the same for all of them*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
 .benefit h3 {
+    /*replaced the 3 seperate classes for the 3 aside articles with one class to consolidate my code as the styling was the same for all of them*/
     margin-bottom: 10px;
     text-align: center;
 }
 
 
 .benefit img {
+    /*replaced the 3 seperate classes for the 3 aside articles with one class to consolidate my code as the styling was the same for all of them*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -106,6 +112,7 @@ p {
 }
 
 .seo-article {
+    /*replaced the 3 seperate classes for the 3 articles with one class to consolidate my code as the styling was the same for all of them*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,11 +122,13 @@ p {
 }
 
 .seo-article img {
+    /*replaced the 3 seperate classes for the 3 images with one class to consolidate my code as the styling was the same for all of them*/
     max-height: 200px;
 }
 
 
 .seo-article h2 {
+    /*replaced the 3 seperate classes for the 3 article headings with one class to consolidate my code as the styling was the same for all of them*/
     margin-bottom: 20px;
     font-size: 36px;
 }
