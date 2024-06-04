@@ -13,7 +13,7 @@ Each article of this webpage contains information about the emportance of search
 Each aside element explains the benefits one would receive by using this service.
 
 ## Screenshot
-![This is a screenshot of the completed webpage] (./assets/images/Horiseon-website.png)
+![This is a screenshot of the completed webpage] (assets/images/Horiseon-website.png)
 
 ## Authors
 Chris Reynolds
