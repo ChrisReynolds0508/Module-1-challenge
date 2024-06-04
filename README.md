@@ -8,7 +8,7 @@ During this project, I refactored the HTML and CSS code in order to make it bett
 N/a
 
 ## Usage
-Each article of this webpage contains information about the emportance of search engine optimization, online reputation management, and social media marketing. 
+Each article of this webpage contains information about the importance of search engine optimization, online reputation management, and social media marketing. 
 
 Each aside element explains the benefits one would receive by using this service.
 
